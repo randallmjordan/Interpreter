@@ -24,7 +24,6 @@ sort.v
 powers.v
 compare.v
 kitty.v
-Jordan_ScriptLang.pdf
 
 OPERATING INSTRUCTIONS
 
@@ -37,7 +36,7 @@ example:
 
 CONTACT
 
-If there are problems with implementing the Vandall Interpreter, the author can be reached at rjordan15@student.gsu.edu.
+If there are problems with implementing the Vandall Interpreter, the author can be reached at randallmjordan@comcast.net.
 
 
 KNOWN BUGS
