@@ -46,7 +46,7 @@ Users that are not the author
 CREDITS
 
 In no particular order
-Brendan Benshoof, Derek Merck, Andrea Rombuaer 
+Brendan Benshoof, Derek Merck, Andrea Rombauer 
 
 CHANGES
 
